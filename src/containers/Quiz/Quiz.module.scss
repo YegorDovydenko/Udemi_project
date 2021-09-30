@@ -1,0 +1,22 @@
+$main_padding: 50px;
+$main_background: linear-gradient(180deg, #5041b2 0%, #8980c9 100%);
+$main_color: #ccc;
+
+.Quiz{
+    background: $main_background;
+    display: flex;
+    flex-grow: 1;
+    padding-top: $main_padding;
+    justify-content: center;
+    width: 100%;
+    color: $main_color;
+}
+.QuizWrapper{
+    width: 600px;
+}
+#red{
+    color: red;
+}
+#green{
+    color: green;
+}
