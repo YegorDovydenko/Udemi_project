@@ -14,7 +14,7 @@ This is my completed project for this course: [View](https://www.udemy.com/cours
 Demo version project is here [VIEW DEMO](https://react-quiz-d624c.web.app/).
 
 For authorization, use this data:
-##### Email: 123@mail.ru
-##### Password: 112233
+Email: 123@mail.ru
+Password: 112233
 
 p.s. Registration is not complete (not included in the course).
