@@ -2,6 +2,8 @@
 
 This is my completed project for this course: [View](https://www.udemy.com/course/react-2020-complete-guide/).
 
+≈30% my code
+
 ### The Quiz Game:
 
 1. You can сhoose a quiz and try to solve it.
